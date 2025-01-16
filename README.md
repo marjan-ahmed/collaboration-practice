@@ -4,7 +4,7 @@
 
 ---
 
-# Toturial
+# Tutorial
 
 ![pg#1](https://github.com/user-attachments/assets/2730e642-43a6-44be-b8e1-c74fae58274e)
 ---
